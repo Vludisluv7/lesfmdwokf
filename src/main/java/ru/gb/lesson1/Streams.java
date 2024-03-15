@@ -85,6 +85,9 @@ public class Streams {
     private double salary;
     private Department department;
 
+    public Person() {
+    }
+
     public Person(String name, int age, double salary, Department department) {
       this.name = name;
       this.age = age;
@@ -121,6 +124,9 @@ public class Streams {
 
   public static class Department {
     private String name;
+
+    public Department() {
+    }
 
     public Department(String name) {
       this.name = name;
