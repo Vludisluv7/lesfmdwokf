@@ -10,7 +10,6 @@ import java.lang.reflect.Method;
 public class TestRunner {
 
   public static void run(Class<?> testClass) {
-
     final Object testObj = initTestObj(testClass);
     for (Method testMethod : testClass.getDeclaredMethods()) {
       if (testMethod.accessFlags().contains(AccessFlag.PRIVATE)) {
