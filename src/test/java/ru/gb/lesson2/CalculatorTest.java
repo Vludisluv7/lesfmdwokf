@@ -29,6 +29,14 @@ class CalculatorTest {
   }
 
   @Test
+  void test() {
+    Assertions.assertEquals(3, 3);
+    Assertions.assertEquals(7, 3);
+    Assertions.assertEquals(5, 2);
+    Assertions.assertEquals(2, 2);
+  }
+
+  @Test
   void testSum1() {
     Calculator calculator = new Calculator();
     int actual = calculator.sum(2, 5);
