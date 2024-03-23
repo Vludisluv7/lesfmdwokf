@@ -72,7 +72,7 @@ public class JDBC {
       create table person (
         id bigint,
         name varchar(256)
-//        second_name varchar(256)
+       second_name varchar(256)
       )
       """);
     }

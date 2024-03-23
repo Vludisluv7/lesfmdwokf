@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6516b0e4-5e71-4b53-b8c1-6d76e972f2a7" name="Changes" comment="Third lesson">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson3/JDBC_HW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/gb/lesson3/JDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/gb/lesson3/JDBC.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dYD8katNejYI3mo4yXeAtxxkuz" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JDBC.executor": "Run",
+    "Application.JDBC_HW.executor": "Run",
+    "Application.JacksonDemo (1).executor": "Run",
+    "Application.JacksonDemo.executor": "Run",
+    "Application.Lambdas.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MyTestClass.executor": "Run",
+    "Application.Optionals.executor": "Run",
+    "Application.Reflections (1).executor": "Run",
+    "Application.Reflections (2).executor": "Run",
+    "Application.Reflections.executor": "Run",
+    "Application.Streams.executor": "Run",
+    "Application.TestRunnerDemo.executor": "Run",
+    "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.CalculatorTest.test.executor": "Run",
+    "JUnit.CalculatorTest.testSum.executor": "Run",
+    "JUnit.CalculatorTest.testSum2.executor": "Run",
+    "JUnit.CalculatorTest.testVoidSum.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.gb.lesson2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JDBC_HW">
+    <configuration name="JDBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson3.JDBC" />
+      <module name="java-junior20230311" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBC_HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson3.JDBC_HW" />
+      <module name="java-junior20230311" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.Main" />
+      <module name="java-junior20230311" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-junior20230311" />
+      <option name="PACKAGE_NAME" value="ru.gb.lesson2" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson2.CalculatorTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testVoidSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-junior20230311" />
+      <option name="PACKAGE_NAME" value="ru.gb.lesson2" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.lesson2.CalculatorTest" />
+      <option name="METHOD_NAME" value="testVoidSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JDBC_HW" />
+        <item itemvalue="Application.JDBC" />
+        <item itemvalue="JUnit.CalculatorTest.test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CalculatorTest.testVoidSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6516b0e4-5e71-4b53-b8c1-6d76e972f2a7" name="Changes" comment="" />
+      <created>1710175970713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710175970713</updated>
+      <workItem from="1710175971844" duration="19852000" />
+      <workItem from="1710662871066" duration="345000" />
+      <workItem from="1710663223847" duration="10943000" />
+      <workItem from="1710939407178" duration="883000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1710176025188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710176025188</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1710176116823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710176116823</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First lesson">
+      <option name="closed" value="true" />
+      <created>1710186775692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710186775692</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Third lesson">
+      <option name="closed" value="true" />
+      <created>1710789014129</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710789014129</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="First lesson" />
+    <MESSAGE value="Third lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third lesson" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/gb/lesson2/CalculatorTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
